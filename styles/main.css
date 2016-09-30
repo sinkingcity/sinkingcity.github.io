@@ -1,0 +1,150 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body,
+div,
+li,
+p {
+  padding: 0;
+  margin: 0;
+  font-family: "raleway", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.75px;
+}
+
+.attribution {
+  font-size: 0.75em;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.no-decoration {
+  text-decoration: none;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.banner {
+  height: 206px;
+  position: relative;
+  background: url("../images/logo.jpg") bottom left no-repeat;
+}
+
+.header-links {
+  position: absolute;
+  right: 0;
+  bottom: -10px;
+}
+
+.header-links li {
+  display: inline;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #808080;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.header-links li a {
+  text-decoration: none;
+  color: #808080;
+}
+
+.splash {
+  height: 385px;
+}
+
+.poem {
+  color: white;
+  padding-left: 150px;
+  font-family: "open sans",sans-serif;
+  font-size: 20px;
+  line-height: 1.2em;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.page-content {
+  padding-top: 25px;
+}
+
+.issue-image {
+  width: 480px;
+}
+
+.issue-image-container {
+  margin-left: 25px;
+}
+
+.footer {
+  margin-top: 25px;
+  padding-top: 15px;
+  height: 143px;
+  background-color: #91D6D3;
+}
+
+.footer-row {
+  justify-content: space-around;
+}
+
+.copyright {
+  padding-top: 25px;
+  font-size: 12px;
+  height: 106px;
+  text-align: center;
+}
+
+.footer-social {
+  font-size: 25px;
+  padding-bottom: 2.5px;
+}
+
+.footer-social a {
+  color: black;
+  text-decoration: none;
+}
+
+.footer-img {
+  height: 106px;
+  width: 241px;
+}
+
+.cw-mfa {
+  height: 106px;
+  width: 241px;
+  border: 3px solid black;
+  text-align: center;
+  vertical-align: middle;
+  color: black;
+  line-height: 96px;
+  font-size: 18px;
+  font-family: 'open sans condensed', sans-serif;
+}

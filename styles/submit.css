@@ -1,0 +1,13 @@
+.submit-text {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  width: 66.6%;
+}
+
+.submit-img {
+  border: 1px solid black;
+  border-radius: 100%;
+  margin: 15px;
+  width: 150px;
+  height: 150px;
+}

@@ -1,0 +1,51 @@
+.splash {
+  /* background: url("../images/masthead.jpg") no-repeat center center; */
+  background-color: #c2c19e;
+}
+
+.page-content {
+  padding-top: 15px;
+  margin: 0 auto;
+  width: 750px;
+}
+
+.page-content a {
+  color: black;
+}
+
+.page-content h3 a {
+  text-decoration: none;
+}
+
+.story-title {
+  font-size: 1.25em;
+  text-transform: uppercase;
+}
+
+.story-content p {
+  text-indent: 50px;
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+.story-content p:first-of-type {
+  text-indent: 0;
+  text-align: justify;
+}
+
+.story-content p:first-of-type:first-letter {
+  float: left;
+  color: #91D6D3;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: Georgia;
+}
+
+.bio {
+  font-style: italic;
+  text-align: justify;
+  font-size: 0.75em
+}
