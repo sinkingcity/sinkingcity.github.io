@@ -92,15 +92,6 @@ p {
   height: 385px;
 }
 
-.poem {
-  color: white;
-  padding-left: 150px;
-  font-family: "open sans",sans-serif;
-  font-size: 20px;
-  line-height: 1.2em;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
 .page-content {
   padding-top: 25px;
 }

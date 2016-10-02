@@ -1,0 +1,23 @@
+.issue-image-container {
+  margin: 25px 50px;
+}
+
+.issue-image-container h2 {
+  margin: 2.5px;
+}
+
+.issue-link {
+  border: 1px solid black;
+  width: 218px;
+  height: 312px;
+}
+
+.issue-subtext {
+  font-size: 0.75em;
+  font-style: italic;
+  text-align: center;
+}
+
+#issue-01 {
+  background: url("../issues/01/images/cover.jpg") bottom left no-repeat;
+}
