@@ -9,11 +9,12 @@
   width: 750px;
 }
 
+.issue a,
 .page-content a {
   color: black;
 }
 
-.page-content h3 a {
+.issue h3 a {
   text-decoration: none;
 }
 
