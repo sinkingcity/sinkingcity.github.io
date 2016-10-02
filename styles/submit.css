@@ -4,6 +4,11 @@
   width: 66.6%;
 }
 
+.submit-text p {
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
 .submit-img {
   border: 1px solid black;
   border-radius: 100%;
