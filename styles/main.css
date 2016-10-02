@@ -118,6 +118,14 @@ p {
   margin-left: 25px;
 }
 
+.audio-container {
+  width: 300px;
+}
+
+.audio-caption {
+  font-size: 0.75em;
+}
+
 .footer {
   margin-top: 25px;
   padding-top: 15px;
