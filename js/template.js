@@ -47,7 +47,7 @@ var template = {
         <div class="row footer-row">
           <div>
             <a href="http://www.as.miami.edu/" target="_blank">
-              <img src="images/um-arts-and-sciences.jpg" alt="UM Arts and Sciences" class="footer-img">
+              <img src="/images/um-arts-and-sciences.jpg" alt="UM Arts and Sciences" class="footer-img">
             </a>
           </div>
           <div class="copyright">
