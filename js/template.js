@@ -19,12 +19,12 @@ var template = {
       },
       {
         'title': 'submit',
-        'url': 'submit.html',
+        'url': '/submit.html',
         'alt': 'How to submit your work'
       },
       {
         'title': 'issues',
-        'url': 'issues.html',
+        'url': '/issues.html',
         'alt': 'See all out issues'
       }
     ],
