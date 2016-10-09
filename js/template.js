@@ -9,12 +9,12 @@ var template = {
     'links': [
       {
         'title': 'home',
-        'url': 'index.html',
+        'url': '/index.html',
         'alt': 'Return home'
       },
       {
         'title': 'about',
-        'url': 'about.html',
+        'url': '/about.html',
         'alt': 'About Sinking City'
       },
       {
