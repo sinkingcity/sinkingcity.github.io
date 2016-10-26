@@ -1,0 +1,38 @@
+{
+  "issue_number": 1,
+  "cover": "/issues/01/images/cover.jpg",
+  "splash-img": "/issues/01/images/boneyard-carmella-de-los-angeles-guiol.jpg",
+
+
+  "fiction": [
+    {
+      "title": "Theresa Scott",
+      "author": {
+        "name": "Nora Bonner",
+        "author_id": 0
+      },
+      "url": "/issues/01/nora-bonner-theresa-scott.html"
+    },
+
+    {
+      "title": "American General",
+      "author": {
+        "name": "Ernest White II",
+        "author_id": 1
+      },
+      "url": "/issues/01/ernest-white-american-general.html"
+    }
+  ],
+
+
+  "poetry": [
+    {
+      "title": "In the Painter's House",
+      "author": {
+        "name": "Hannah Dela Cruz Abrams",
+        "author_id": 2
+      },
+      "url": "/issues/01/ernest-white-american-general.html"
+    }
+  ]
+}
