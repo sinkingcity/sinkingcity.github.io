@@ -153,7 +153,7 @@ var authors = [
 				{
 					"title": "The Santera in #4209",
 					"issue": 1,
-					"url": "beverly-tan-murrary-santera-in-4209.html"
+					"url": "../issues/01/beverly-tan-murrary-santera-in-4209.html"
         }
       ]
 		}
