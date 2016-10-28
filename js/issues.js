@@ -48,11 +48,81 @@ var issues = [
 					"author_id": 3
 				},
 				"url": "/issues/01/caroline-barr-jabuticaba-fruit-tree.html"
+    		},
+
+			{
+				"title": "Venus de Milo with Drawers to Her Lover",
+				"author": {
+					"name": "Caroline Barr",
+					"author_id": 3
+				},
+				"url": "/issues/01/caroline-barr-venus-de-milo.html"
+    		},
+
+			{
+				"title": "Blank",
+				"author": {
+					"name": "Caroline Barr",
+					"author_id": 3
+				},
+				"url": "/issues/01/caroline-barr-blank.html"
+    		},
+
+			{
+				"title": "Ode to Pablo Picasso",
+				"author": {
+					"name": "Daniel Ruiz",
+					"author_id": 4
+				},
+				"url": "/issues/01/daniel-ruiz-pablo-picasso.html"
+    		},
+
+			{
+				"title": "Under the Threat of Eden",
+				"author": {
+					"name": "Emma Bolden",
+					"author_id": 5
+				},
+				"url": "/issues/01/emma-bolden-threat-of-eden.html"
+    		},
+
+			{
+				"title": "The Parable of the Wayward Child",
+				"author": {
+					"name": "Shara McCallum",
+					"author_id": 6
+				},
+				"url": "/issues/01/shara-mccallum-wayward-child.html"
+    		},
+
+			{
+				"title": "Sonnet for Snapper Creek",
+				"author": {
+					"name": "Maureen Seaton",
+					"author_id": 7
+				},
+				"url": "/issues/01/maureen-seaton-snapper-creek.html"
+    		},
+
+			{
+				"title": "Haiku",
+				"author": {
+					"name": "M. M. DeVoe",
+					"author_id": 8
+				},
+				"url": "/issues/01/m-m-devoe-haiku.html"
     		}
   		],
 
 		"nonfiction": [
-
+			{
+				"title": "The Santera in #4209",
+				"author": {
+					"name": "Beverly Tan Murrary",
+					"author_id": 9
+				},
+				"url": "/issues/01/beverly-tan-murrary-santera-in-4209.html"
+    		}
 		]
 	}
 ]
@@ -60,7 +130,6 @@ var issues = [
 var printIssue = function (issue_number) {
 	var issue_id = issue_number - 1;
 	var $div = $('#issue-box');
-	$div.empty();
 
 	var issue = issues[issue_id];
 	var cover = issue.cover;
@@ -107,5 +176,3 @@ var printIssue = function (issue_number) {
 
 
 }
-
-printIssue(1);
