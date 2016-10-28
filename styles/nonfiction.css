@@ -1,22 +1,18 @@
 .splash {
-  /* background: url("../images/masthead.jpg") no-repeat center center; */
-  background-color: #b2f7f9;
+	/* background: url("../images/masthead.jpg") no-repeat center center; */
+	background-color: #b2f7f9;
 }
-
 .page-content {
-  padding-top: 15px;
-  margin: 0 auto;
+	padding-top: 15px;
+	margin: 0 auto;
 }
-
 .page-content p {
-  padding: 0;
-  font-family: 'raleway', sans-serif;
+	padding: 0;
+	font-family: 'raleway', sans-serif;
 }
-
 .page-content a {
-  color: black;
+	color: black;
 }
-
 .page-content h3 a {
-  text-decoration: none;
+	text-decoration: none;
 }

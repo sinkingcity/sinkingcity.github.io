@@ -1,170 +1,141 @@
 * {
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
 }
-
 body,
 div,
 li,
 p {
-  padding: 0;
-  margin: 0;
-  font-family: "raleway", sans-serif;
-  font-size: 16px;
-  letter-spacing: 0.75px;
+	padding: 0;
+	margin: 0;
+	font-family: "raleway", sans-serif;
+	font-size: 16px;
+	letter-spacing: 0.75px;
 }
-
 .attribution {
-  font-size: 0.75em;
-  width: 480px;
+	font-size: 0.75em;
+	width: 480px;
 }
-
 .text-right {
-  text-align: right;
+	text-align: right;
 }
-
 .text-center {
-  text-align: center;
+	text-align: center;
 }
-
 .text-justify {
-  text-align: justify;
+	text-align: justify;
 }
-
 .no-decoration {
-  text-decoration: none;
+	text-decoration: none;
 }
-
 .float-left {
-  float: left;
+	float: left;
 }
-
 .float-right {
-  float: right;
+	float: right;
 }
-
 .clear-both {
-  clear: both;
+	clear: both;
 }
-
 .container {
-  width: 980px;
-  margin: 0 auto;
+	width: 980px;
+	margin: 0 auto;
 }
-
 .row {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    display: -webkit-flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	display: -webkit-flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 }
-
 .banner {
-  height: 206px;
-  position: relative;
-  background: url("../images/logo.jpg") bottom left no-repeat;
+	height: 206px;
+	position: relative;
+	background: url("../images/logo.jpg") bottom left no-repeat;
 }
-
 .header-links {
-  position: absolute;
-  right: 0;
-  bottom: -10px;
+	position: absolute;
+	right: 0;
+	bottom: -10px;
 }
-
 .header-links li {
-  display: inline;
-  font-size: 15px;
-  text-transform: uppercase;
-  color: #808080;
-  padding: 0 10px;
-  cursor: pointer;
+	display: inline;
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #808080;
+	padding: 0 10px;
+	cursor: pointer;
 }
-
 .header-links li a {
-  text-decoration: none;
-  color: #808080;
+	text-decoration: none;
+	color: #808080;
 }
-
 .splash {
-  height: 385px;
+	height: 385px;
 }
-
 .page-content {
-  padding-top: 25px;
+	padding-top: 25px;
 }
-
 .issue {
-  width: 980px;
-  margin: 0 auto;
+	width: 980px;
+	margin: 0 auto;
 }
-
 .issue-image {
-  width: 480px;
+	width: 480px;
 }
-
 .issue-image-container {
-  margin-left: 25px;
+	margin-left: 25px;
 }
-
 .audio-container {
-  width: 300px;
+	width: 300px;
 }
-
 .audio-caption {
-  font-size: 0.75em;
+	font-size: 0.75em;
 }
-
 .footer {
-  margin-top: 25px;
-  padding-top: 15px;
-  height: 143px;
-  background-color: #91D6D3;
+	margin-top: 25px;
+	padding-top: 15px;
+	height: 143px;
+	background-color: #91D6D3;
 }
-
 .footer-row {
-  -ms-flex-pack: distribute;
-  justify-content: space-around;
+	-ms-flex-pack: distribute;
+	justify-content: space-around;
 }
-
 .copyright {
-  padding-top: 25px;
-  font-size: 12px;
-  height: 106px;
-  text-align: center;
+	padding-top: 25px;
+	font-size: 12px;
+	height: 106px;
+	text-align: center;
 }
-
 .footer-social {
-  font-size: 25px;
-  padding-bottom: 2.5px;
+	font-size: 25px;
+	padding-bottom: 2.5px;
 }
-
 .footer-social a {
-  color: black;
-  text-decoration: none;
+	color: black;
+	text-decoration: none;
 }
-
 .footer-img {
-  height: 106px;
-  width: 241px;
+	height: 106px;
+	width: 241px;
 }
-
 .cw-mfa {
-  height: 106px;
-  width: 241px;
-  border: 3px solid black;
-  text-align: center;
-  vertical-align: middle;
-  color: black;
-  line-height: 96px;
-  font-size: 18px;
-  font-family: 'open sans condensed', sans-serif;
+	height: 106px;
+	width: 241px;
+	border: 3px solid black;
+	text-align: center;
+	vertical-align: middle;
+	color: black;
+	line-height: 96px;
+	font-size: 18px;
+	font-family: 'open sans condensed', sans-serif;
 }
