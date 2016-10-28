@@ -1,22 +1,19 @@
 .splash {
-  /* background: url("../images/ocean.jpg") no-repeat center center */
-  background-color: #D4DEE7;
+	/* background: url("../images/ocean.jpg") no-repeat center center */
+	background-color: #D4DEE7;
 }
-
 .page-content {
-  padding-top: 50px;
-  width: 497px;
-  margin: 0 auto;
+	padding-top: 50px;
+	width: 497px;
+	margin: 0 auto;
 }
-
 .about-text p {
-  padding: 25px 0;
-  font-family: 'raleway', sans-serif;
-  font-size: 20px;
-  line-height: 25px;
+	padding: 25px 0;
+	font-family: 'raleway', sans-serif;
+	font-size: 20px;
+	line-height: 25px;
 }
-
 .editors {
-  width: 250px;
-  margin: 0 auto;
+	width: 250px;
+	margin: 0 auto;
 }
