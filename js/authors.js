@@ -132,7 +132,7 @@ var authors = [
 	{
 		"author_id": 8,
 		"name": "M. M. DeVoe",
-		"bio": 'M. M. De Voe is an internationally published, award-winning writer of interstitial fiction including poetry, flash, sci-fi, fantasy, horror, literary fiction, and sometimes, reluctantly, nonfiction. Based in NYC, she\'s the founder of the literary nonprofit Pen Parentis which provides resources to keep writers on creative track after they start a family. You can also find her on her <a href="http://mmdevoe.com" target="_blank">website</a><a>, </a><a href="http://facebook.com/mmdevoe" target="_blank">Facebook</a>, and <a href="http://www.twitter.com/mmdevoe" target="_blank">Twitter</a>.',
+		"bio": 'M. M. DeVoe is an internationally published, award-winning writer of interstitial fiction including poetry, flash, sci-fi, fantasy, horror, literary fiction, and sometimes, reluctantly, nonfiction. Based in NYC, she\'s the founder of the literary nonprofit Pen Parentis which provides resources to keep writers on creative track after they start a family. You can also find her on her <a href="http://mmdevoe.com" target="_blank">website</a>, <a href="http://facebook.com/mmdevoe" target="_blank">Facebook</a>, and <a href="http://www.twitter.com/mmdevoe" target="_blank">Twitter</a>.',
 		"publications": {
 			"poetry": [
 				{
