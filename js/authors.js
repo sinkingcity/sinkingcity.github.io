@@ -146,14 +146,14 @@ var authors = [
 
 	{
 		"author_id": 9,
-		"name": "Beverly Tan Murrary",
-		"bio": "Beverly Tan Murrary is a Chinese-American author who was born in Singapore and immigrated to California at age 16. She now resides in Miami with her husband and a terrier-mutt named Larry David. Beverly is a VONA/Voices alumnus, and has been published in the Huffington Post, AWAY Magazine, Linden Avenue Literary Journal, and Lime Hawk. She writes short stories about life in liminal spaces, and has yet to find the perfect carne asada taco.",
+		"name": "Beverly Tan Murray",
+		"bio": "Beverly Tan Murray is a Chinese-American author who was born in Singapore and immigrated to California at age 16. She now resides in Miami with her husband and a terrier-mutt named Larry David. Beverly is a VONA/Voices alumnus, and has been published in the Huffington Post, AWAY Magazine, Linden Avenue Literary Journal, and Lime Hawk. She writes short stories about life in liminal spaces, and has yet to find the perfect carne asada taco.",
 		"publications": {
 			"nonfiction": [
 				{
 					"title": "The Santera in #4209",
 					"issue": 1,
-					"url": "../issues/01/beverly-tan-murrary-santera-in-4209.html"
+					"url": "../issues/01/beverly-tan-murray-santera-in-4209.html"
         }
       ]
 		}

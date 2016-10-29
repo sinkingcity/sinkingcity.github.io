@@ -118,10 +118,10 @@ var issues = [
 			{
 				"title": "The Santera in #4209",
 				"author": {
-					"name": "Beverly Tan Murrary",
+					"name": "Beverly Tan Murray",
 					"author_id": 9
 				},
-				"url": "/issues/01/beverly-tan-murrary-santera-in-4209.html"
+				"url": "/issues/01/beverly-tan-murray-santera-in-4209.html"
     		}
 		]
 	}
