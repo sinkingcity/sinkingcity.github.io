@@ -4,7 +4,7 @@
 }
 .page-content {
 	padding-top: 50px;
-	width: 760px;
+	width: 960px;
 	margin: 0 auto;
 }
 .about-text p {
@@ -17,10 +17,22 @@
 	margin: 0 auto;
 }
 .founding-editors {
+	width: 250px;
 	float: right;
 }
 .curent-editors {
+	width: 700px;
 	float: left;
+}
+#editor-display {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+}
+.editor {
+	margin-right: 25px;
 }
 .editor img {
 	width: 150px;
