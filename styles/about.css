@@ -29,11 +29,14 @@
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-wrap: wrap;
-	    flex-wrap: wrap;
+	flex-wrap: wrap;
 }
 .editor {
-	margin-right: 25px;
+	margin: 0 25px 25px 0;
 }
 .editor img {
 	width: 150px;
+}
+.editor h4 {
+	margin: 0;
 }
