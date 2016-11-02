@@ -7,6 +7,10 @@
 	width: 960px;
 	margin: 0 auto;
 }
+.about-logo {
+	position: relative;
+	left: calc(50% - 250px);
+}
 .about-text p {
 	padding: 25px 0;
 	font-family: 'raleway', sans-serif;
@@ -33,6 +37,7 @@
 }
 .editor {
 	margin: 0 25px 25px 0;
+	width: 150px;
 }
 .editor img {
 	width: 150px;
