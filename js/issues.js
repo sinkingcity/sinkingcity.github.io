@@ -137,7 +137,7 @@ var printIssue = function (issue_number) {
 	var coverHTML = '<div class="container" id="issue-box"><div class="float-right issue-image-container"><img src="' +
 		cover.splash +
 		'" class="issue-image"><p class="attribution text-center"><i>' +
-		cover.title + 'by' + cover.author +
+		cover.title + ' by ' + cover.author +
 		'</i></p><hr><p class="attribution text-justify">' +
 		cover.bio +
 		'</p></div>';

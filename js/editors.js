@@ -3,7 +3,7 @@ var editors = {
 		{
 			"name": "Brittany Lyons",
 			"title": "Managing Editor",
-			"picture": ""
+			"picture": "/images/editors/brittany.jpg"
 		},
 		{
 			"name": "Chioma Urama",
@@ -23,7 +23,7 @@ var editors = {
 		{
 			"name": "Mario Ariza",
 			"title": "Poetry Editor",
-			"picture": ""
+			"picture": "/images/editors/mario.jpg"
 		},
 		{
 			"name": "Candice Mays",
