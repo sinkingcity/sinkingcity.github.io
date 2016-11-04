@@ -18,7 +18,7 @@ var editors = {
 		{
 			"name": "Jon Lampe",
 			"title": "Poetry Editor",
-			"picture": ""
+			"picture": "/images/editors/jon.jpg"
 		},
 		{
 			"name": "Mario Ariza",
