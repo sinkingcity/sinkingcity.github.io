@@ -25,6 +25,13 @@
  .page-content h3 a {
  	text-decoration: none;
  }
+#splash-image {
+	width: 100%;
+}
+.splash-text {
+	line-height: 2em;
+	font-size: 1.5em;
+}
  .twitter {
  	width: 500px;
  	padding-top: 50px;
