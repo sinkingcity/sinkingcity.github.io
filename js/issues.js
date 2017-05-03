@@ -128,126 +128,153 @@ var issues = [
 	{
 		"issue_number": 2,
 		"cover": {
-			"rectangle": "/issues/01/images/cover.jpg",
-			"splash": "/issues/01/images/boneyard-carmella-de-los-angeles-guiol.jpg",
-			"title": "Boneyard",
-			"author": "Carmella de los Angeles Guiol",
-			"bio": 'A Miami native and a graduate of Amherst College, Carmella de los Angeles Guiol is currently pursuing a Masters in Fine Arts in Creative Writing at the University of South Florida. Her writing and/or photography has appeared in The Toast, The Normal School, Thought Catalog, The Fourth River, and elsewhere. You can often find her in the garden or kayaking the Hillsborough River, but you can always find her at <a href="www.therestlesswriter.com">www.therestlesswriter.com</a>.'
+			"rectangle": "/issues/02/images/cover.jpg",
+			"splash": "/issues/02/images/art-stoddard.jpg",
+			"title": "Klimt Kitty",
+			"author": "Christine Stoddard",
+			"bio": ''
 		},
-
 
 		"fiction": [
 			{
-				"title": "Theresa Scott",
+				"title": "Macho",
 				"author": {
-					"name": "Nora Bonner",
-					"author_id": 0
+					"name": "Cecilia Rodríguez Milanés",
+					"author_id": 10
 				},
-				"url": "/issues/01/nora-bonner-theresa-scott.html"
+				"url": "/issues/02/milanes-macho.html"
 			},
 
 			{
-				"title": "American General",
+				"title": "Our House of Broken Things",
 				"author": {
-					"name": "Ernest White II",
-					"author_id": 1
+					"name": "Donna Miscolta",
+					"author_id": 11
 				},
-				"url": "/issues/01/ernest-white-american-general.html"
+				"url": "/issues/02/miscolta-broken-things.html"
 			}
 		],
 
-
 		"poetry": [
 			{
-				"title": "In the Painter's House",
+				"title": "Water Bearing",
 				"author": {
-					"name": "Hannah Dela Cruz Abrams",
-					"author_id": 2
+					"name": "Daniel Barnum",
+					"author_id": 12
 				},
-				"url": "/issues/01/hannah-dela-cruz-abrams-painters-house.html"
+				"url": "/issues/02/barnum-water-bearing.html"
     		},
 
 			{
-				"title": "Jabuticaba Fruit Tree",
+				"title": "Shity Little Dinosaurs",
 				"author": {
-					"name": "Caroline Barr",
-					"author_id": 3
+					"name": "Rosebud Ben-Oni",
+					"author_id": 13
 				},
-				"url": "/issues/01/caroline-barr-jabuticaba-fruit-tree.html"
+				"url": "/issues/02/ben-oni-dinosaurs.html"
     		},
 
 			{
-				"title": "Venus de Milo with Drawers to Her Lover",
+				"title": "Three Haiku's for Hurrican Matthew",
 				"author": {
-					"name": "Caroline Barr",
-					"author_id": 3
+					"name": "Ariel Francisco",
+					"author_id": 14
 				},
-				"url": "/issues/01/caroline-barr-venus-de-milo.html"
+				"url": "/issues/02/francisco-hurricane-matthew.html"
     		},
 
 			{
-				"title": "Blank",
+				"title": "Then for so long you were silent",
 				"author": {
-					"name": "Caroline Barr",
-					"author_id": 3
+					"name": "Taylor Johnson",
+					"author_id": 15
 				},
-				"url": "/issues/01/caroline-barr-blank.html"
+				"url": "/issues/02/johnson-so-long.html"
     		},
 
 			{
-				"title": "Ode to Pablo Picasso",
+				"title": "Bone Broth",
 				"author": {
-					"name": "Daniel Ruiz",
-					"author_id": 4
+					"name": "Mia Leonin",
+					"author_id": 16
 				},
-				"url": "/issues/01/daniel-ruiz-pablo-picasso.html"
+				"url": "/issues/02/leonin-bone-broth.html"
     		},
 
 			{
-				"title": "Under the Threat of Eden",
+				"title": "Las Chacharas They Carried",
 				"author": {
-					"name": "Emma Bolden",
-					"author_id": 5
+					"name": "Antonio Lopez",
+					"author_id": 17
 				},
-				"url": "/issues/01/emma-bolden-threat-of-eden.html"
+				"url": "/issues/02/lopez-chacharas.html"
     		},
 
 			{
-				"title": "The Parable of the Wayward Child",
+				"title": "Elements of Latino Literature",
 				"author": {
-					"name": "Shara McCallum",
-					"author_id": 6
+					"name": "Antonio Lopez",
+					"author_id": 17
 				},
-				"url": "/issues/01/shara-mccallum-wayward-child.html"
+				"url": "/issues/02/lopez-latino-literature.html"
     		},
 
 			{
-				"title": "Sonnet for Snapper Creek",
+				"title": "Things Have Changed",
 				"author": {
-					"name": "Maureen Seaton",
-					"author_id": 7
+					"name": "Lorie Matejowsky",
+					"author_id": 18
 				},
-				"url": "/issues/01/maureen-seaton-snapper-creek.html"
+				"url": "/issues/02/matejowsky-changed.html"
     		},
 
 			{
-				"title": "Haiku",
+				"title": "In April",
 				"author": {
-					"name": "M. M. DeVoe",
-					"author_id": 8
+					"name": "Brian Simoneau",
+					"author_id": 19
 				},
-				"url": "/issues/01/m-m-devoe-haiku.html"
+				"url": "/issues/02/simoneau-april.html"
+    		},
+
+			{
+				"title": "Easy Come Easy Go",
+				"author": {
+					"name": "Guinotte Wise",
+					"author_id": 20
+				},
+				"url": "/issues/02/wise-easy.html"
+    		},
+
+			{
+				"title": "Dial Twisting",
+				"author": {
+					"name": "Guinotte Wise",
+					"author_id": 20
+				},
+				"url": "/issues/02/wise-dial.html"
     		}
   		],
 
 		"nonfiction": [
 			{
-				"title": "The Santera in #4209",
+				"title": "Dreaming Home",
 				"author": {
-					"name": "Beverly Tan Murray",
-					"author_id": 9
+					"name": "Ana Menéndez",
+					"author_id": 21
 				},
-				"url": "/issues/01/beverly-tan-murray-santera-in-4209.html"
+				"url": "/issues/02/menendez-home.html"
+    		}
+		],
+
+		"art": [
+			{
+				"title": "Las Cintas",
+				"author": {
+					"name": "Jacklyn Gion",
+					"author_id": 22
+				},
+				"url": "/issues/02/gion-cintas.html"
     		}
 		]
 	}
@@ -295,6 +322,17 @@ var printIssue = function (issue_number) {
 
 		issueHTML += storyHTML;
 	});
+
+	if (issue.art) {
+		issueHTML += '</ul><h3>Art:</h3><ul>';
+
+		issue.art.forEach(function (story) {
+			var storyHTML = '<li><a href="' + story.url + '">"' +
+				story.title + '" by ' + story.author.name + '</a></li>';
+
+			issueHTML += storyHTML;
+		});
+	}
 
 	issueHTML += '</ul>';
 
