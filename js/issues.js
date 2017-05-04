@@ -132,7 +132,7 @@ var issues = [
 			"splash": "/issues/02/images/art-stoddard.jpg",
 			"title": "Klimt Kitty",
 			"author": "Christine Stoddard",
-			"bio": ''
+			"bio": 'Christine Stoddard is a Salvadoran-Scottish-American writer and artist who lives in Brooklyn. Her visuals have appeared in the New York Transit Museum, the Ground Zero Hurricane Katrina Museum, the Poe Museum, and beyond. In 2014, Folio Magazine named her one of the top 20 media visionaries in their 20s for founding Quail Bell Magazine. She also is a Puffin Foundation grantee, Tom Tom Festival artist, and Artbridge winner'
 		},
 
 		"fiction": [
