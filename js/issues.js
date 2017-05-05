@@ -175,7 +175,7 @@ var issues = [
     		},
 
 			{
-				"title": "Three Haiku's for Hurrican Matthew",
+				"title": "Three Haiku's for Hurricane Matthew",
 				"author": {
 					"name": "Ariel Francisco",
 					"author_id": 14

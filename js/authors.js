@@ -157,7 +157,212 @@ var authors = [
         }
       ]
 		}
-  }
+  },
+
+	{
+		"author_id": 10,
+		"name": "Cecilia Rodríguez Milanés",
+		"bio": "",
+		"publications": {
+			"fiction": [
+				{
+					"title": "Macho",
+					"issue": 2,
+					"url": "../issues/02/milanes-macho.html"
+        }
+      ]
+		}
+  },
+
+	{
+		"author_id": 11,
+		"name": "Donna Miscolta",
+		"bio": "",
+		"publications": {
+			"fiction": [
+				{
+					"title": "Our House of Broken Things",
+					"issue": 2,
+					"url": "../issues/02/miscolta-broken-things.html"
+      	  		}
+    	  	]
+		}
+  	},
+
+	{
+		"author_id": 12,
+		"name": "Daniel Barnum",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Water Bearing",
+					"issue": 2,
+					"url": "../issues/02/barnum-water-bearing.html"
+      	  		}
+    	  	]
+		}
+  	},
+
+	{
+		"author_id": 13,
+		"name": "Rosebud Ben-Oni",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Shitty Little Dinosaurs",
+					"issue": 2,
+					"url": "../issues/02/ben-oni-dinosaurs.html"
+      	  		}
+    	  	]
+		}
+  	},
+
+	{
+		"author_id": 14,
+		"name": "Ariel Francisco",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Three Haiku's for Hurricane Matthew",
+					"issue": 2,
+					"url": "../issues/02/francisco-hurricane-matthew.html"
+      	  		}
+    	  	]
+		}
+  	},
+
+	{
+		"author_id": 15,
+		"name": "Taylor Johnson",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Then for so long you were silent",
+					"issue": 2,
+					"url": "../issues/02/johnson-so-long.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 16,
+		"name": "Mia Leonin",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Bone Broth",
+					"issue": 2,
+					"url": "../issues/02/leonin-bone-broth.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 17,
+		"name": "Antonio Lopez",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Las Chacharas They Carried",
+					"issue": 2,
+					"url": "../issues/02/lopez-chacharas.html"
+      	  		},
+				{
+					"title": "Elements of Latino Literature",
+					"issue": 2,
+					"url": "../issues/02/lopez-latino-literature.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 18,
+		"name": "Lorie Matejowsky",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Things Have Changed",
+					"issue": 2,
+					"url": "../issues/02/matejowsky-changed.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 19,
+		"name": "Brian Simoneau",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "In April",
+					"issue": 2,
+					"url": "../issues/02/simoneau-april.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 20,
+		"name": "Guinotte Wise",
+		"bio": "",
+		"publications": {
+			"poetry": [
+				{
+					"title": "Easy Come Easy Go",
+					"issue": 2,
+					"url": "../issues/02/wise-easy.html"
+      	  		},
+				{
+					"title": "Dial Twisting",
+					"issue": 2,
+					"url": "../issues/02/wise-dial.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 21,
+		"name": "Ana Menéndez",
+		"bio": "",
+		"publications": {
+			"nonfiction": [
+				{
+					"title": "Dreaming Home",
+					"issue": 2,
+					"url": "../issues/02/menendez-home.html"
+      	  		}
+    	  	]
+		}
+  	},
+	
+	{
+		"author_id": 22,
+		"name": "Jacklyn Gion",
+		"bio": "",
+		"publications": {
+			"nonfiction": [
+				{
+					"title": "Las Cintas",
+					"issue": 2,
+					"url": "../issues/02/gion-cintas.html"
+      	  		}
+    	  	]
+		}
+  	}
 ];
 
 var printAuthor = function (author_id) {
@@ -194,6 +399,17 @@ var printAuthor = function (author_id) {
 		$div.append('<h3>Nonfiction:</h3><ul>');
 
 		publications.nonfiction.forEach(function (story) {
+			var post = '<li><a href="' + story.url + '">' + story.title + '</a> - Issue ' + story.issue + '</li>';
+			$div.append(post);
+		});
+
+		$div.append('</ul>');
+	}
+	
+	if (publications.art) {
+		$div.append('<h3>Art:</h3><ul>');
+
+		publications.art.forEach(function (story) {
 			var post = '<li><a href="' + story.url + '">' + story.title + '</a> - Issue ' + story.issue + '</li>';
 			$div.append(post);
 		});
