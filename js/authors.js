@@ -162,7 +162,7 @@ var authors = [
 	{
 		"author_id": 10,
 		"name": "Cecilia Rodríguez Milanés",
-		"bio": "",
+		"bio": "Cecilia Rodríguez Milanés' work has appeared in Guernica, Kweli Journal, Literary Mama, The Bilingual Review, Caribe, and The Norton Anthology of Latino Literature. Her books include story collections, Marielitos, Balseros, and Other Exiles and Oye What I’m Gonna Tell You; a poetry chapbook Everyday Chica, and a poetry CD. She is professor of writing and literature at the University of Central Florida.",
 		"publications": {
 			"fiction": [
 				{
@@ -177,7 +177,7 @@ var authors = [
 	{
 		"author_id": 11,
 		"name": "Donna Miscolta",
-		"bio": "",
+		"bio": "Donna Miscolta's story collection Hola and Goodbye was selected by Randall Kenan for the Doris Bakwin Award for Writing by a Woman and publication by Carolina Wren Press in 2016.  She’s also the author of the novel When the de la Cruz Family Danced (Signal 8 Press, 2011). Excerpts from her novel-in-progress The Education of Angie Rubio appear in The Adirondack Review and Crate (now the Santa Ana Review).",
 		"publications": {
 			"fiction": [
 				{
@@ -192,7 +192,7 @@ var authors = [
 	{
 		"author_id": 12,
 		"name": "Daniel Barnum",
-		"bio": "",
+		"bio": "Daniel Barnum studies film, literature, and translation at Bucknell University in Pennsylvania, where he served as editorial assistant at West Branch last spring. He has received fellowships from the Stadler Center for Poetry and the Colgate Writers' Conference. His work appears in or is forthcoming from <i>Ninth Letter, The Maynard, Lullwater Review, The Matador Review, and The White Elephant</i>.",
 		"publications": {
 			"poetry": [
 				{
@@ -207,7 +207,7 @@ var authors = [
 	{
 		"author_id": 13,
 		"name": "Rosebud Ben-Oni",
-		"bio": "",
+		"bio": "Born to a Mexican mother and Jewish father,  Rosebud Ben-Oni Oni is a recipient of the 2014 NYFA Fellowship in Poetry and a CantoMundo Fellow. She is the author of SOLECISM (Virtual Artists Collective, 2013), and an Editorial Advisor for VIDA: Women in Literary Arts. Her poems appear or are forthcoming in POETRY, The American Poetry Review, TriQuarterly, Prairie Schooner, Arts & Letters, Hunger Mountain, among others. She writes weekly for The Kenyon Review blog. Find her at <a href='http://7trainlove.org'>7TrainLove.org</a>.",
 		"publications": {
 			"poetry": [
 				{
@@ -222,7 +222,7 @@ var authors = [
 	{
 		"author_id": 14,
 		"name": "Ariel Francisco",
-		"bio": "",
+		"bio": "Ariel Francisco is the author of All My Heroes Are Broke (C&R Press, 2017) and Before Snowfall, After Rain (Glass Poetry Press, 2016). Born in the Bronx to Dominican and Guatemalan parents, he was raised in Miami and completed his MFA at Florida International University. His poems have appeared in Best New Poets 2016, Gulf Coast, Poets.org, Prelude, Washington Square, and elsewhere. He lives in South Florida (for now).",
 		"publications": {
 			"poetry": [
 				{
@@ -237,7 +237,7 @@ var authors = [
 	{
 		"author_id": 15,
 		"name": "Taylor Johnson",
-		"bio": "",
+		"bio": "Taylor Johnson is proud of being from Washington, DC. They’ve received fellowships and scholarships from Callaloo, Cave Canem, Lambda Literary foundation, VONA, the Fine Arts Work Center, and the Vermont Studio Center. Their work appears in, or is forthcoming from, CALLALOO, the minnesota review, Vinyl Poetry, Hayden's Ferry Review, Winter Tangerine, and elsewhere.",
 		"publications": {
 			"poetry": [
 				{
@@ -252,7 +252,7 @@ var authors = [
 	{
 		"author_id": 16,
 		"name": "Mia Leonin",
-		"bio": "",
+		"bio": "Mia Leonin is the author of three poetry collections, most recently, Chance Born (Anhinga Press) and a memoir, Havana and Other Missing Fathers(University of Arizona Press). A book-length poem, Fable of the Paddle Sack Child will be published by BkMk Press this fall with illustrations by Cuban artist, Nereida García Ferraz.",
 		"publications": {
 			"poetry": [
 				{
@@ -267,7 +267,7 @@ var authors = [
 	{
 		"author_id": 17,
 		"name": "Antonio Lopez",
-		"bio": "",
+		"bio": "Antonio Lopez is a poet.",
 		"publications": {
 			"poetry": [
 				{
@@ -287,7 +287,7 @@ var authors = [
 	{
 		"author_id": 18,
 		"name": "Lorie Matejowsky",
-		"bio": "",
+		"bio": 'Lorie Matejowsky is a resident of Central Florida but spent her first thirty years in Texas. Her work has appeared or is forthcoming in Rattle, Tinderbox Poetry Journal, Rust + Moth, Rise Up Review, Poydras Review, Mothers Always Write and Texas Poetry Calendar. She is currently a student in the MFA in Creative Writing program at University of Central Florida. Her poetic work is deeply informed by the South, especially its Gulf Coast, and narratives of feminine identity and faith. You can find her on twitter at <a href="http://twitter.com/loriematejowsky">@LorieMatejowsky</a>.',
 		"publications": {
 			"poetry": [
 				{
@@ -302,7 +302,7 @@ var authors = [
 	{
 		"author_id": 19,
 		"name": "Brian Simoneau",
-		"bio": "",
+		"bio": "Brian Simoneau is the author of River Bound (C&R Press, 2014). His poems have appeared or are forthcoming in Boston Review, Cincinnati Review, The Georgia Review, Mid-American Review, RHINO, Southern Indiana Review, and other journals. He lives in Connecticut with his family.",
 		"publications": {
 			"poetry": [
 				{
@@ -317,7 +317,7 @@ var authors = [
 	{
 		"author_id": 20,
 		"name": "Guinotte Wise",
-		"bio": "",
+		"bio": "Guinotte Wise lives on a farm in Resume Speed, Kansas. His short story collection (Night Train, Cold Beer) won publication by a university press and not much acclaim. Three more books since. His wife has an honest job in the city and drives 100 miles a day to keep it.",
 		"publications": {
 			"poetry": [
 				{
@@ -337,7 +337,7 @@ var authors = [
 	{
 		"author_id": 21,
 		"name": "Ana Menéndez",
-		"bio": "",
+		"bio": "Ana Menéndez is the author of four books of fiction: Adios, Happy Homeland!, The Last War,  Loving Che and In Cuba I Was a German Shepherd, whose title story won a Pushcart Prize. She has worked as a journalist in the United States and abroad, lastly as a prize-winning columnist for The Miami Herald. As a reporter, she wrote about Cuba, Haiti, Kashmir, Afghanistan and India, where she was based for three years. Her work has appeared in a variety of publications including Vogue, Bomb Magazine, The New York Times and Tin House and has been included in several anthologies, including The Norton Anthology of Latino Literature. She has a B.A. in English from Florida International University and an M.F.A. from New York University. A former Fulbright Scholar in Egypt, she now lives in Surfside, Florida.",
 		"publications": {
 			"nonfiction": [
 				{
@@ -352,7 +352,7 @@ var authors = [
 	{
 		"author_id": 22,
 		"name": "Jacklyn Gion",
-		"bio": "",
+		"bio": "Jacklyn Gion, an Ormond Beach native, is a graduate student in Stetson University's MFA of the Americas program with a concentration towards poetry in the expanded field. After taking a break from being a high school English teacher, she currently finds herself as a reader for OBRA Artifact, project contributor to O, Miami's Poetry Festival, soccer and tennis coach, and, as always, beach aficionado.",
 		"publications": {
 			"nonfiction": [
 				{
