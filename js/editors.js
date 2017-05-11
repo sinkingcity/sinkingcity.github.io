@@ -26,6 +26,11 @@ var editors = {
 			"picture": "/images/editors/mario.jpg"
 		},
 		{
+			"name": "Stephanie Lane Sutton",
+			"title": "Poetry Editor",
+			"picture": "/images/editors/blank.jpg"
+		},
+		{
 			"name": "Candice Mays",
 			"title": "Art Editor",
 			"picture": "/images/editors/candice.jpg"
