@@ -166,7 +166,7 @@ var issues = [
     		},
 
 			{
-				"title": "Shity Little Dinosaurs",
+				"title": "Shitty Little Dinosaurs",
 				"author": {
 					"name": "Rosebud Ben-Oni",
 					"author_id": 13
@@ -175,7 +175,7 @@ var issues = [
     		},
 
 			{
-				"title": "Three Haiku's for Hurricane Matthew",
+				"title": "Three Haikus for Hurricane Matthew",
 				"author": {
 					"name": "Ariel Francisco",
 					"author_id": 14
