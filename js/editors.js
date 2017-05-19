@@ -28,7 +28,7 @@ var editors = {
 		{
 			"name": "Stephanie Lane Sutton",
 			"title": "Poetry Editor",
-			"picture": "/images/editors/blank.jpg"
+			"picture": "/images/editors/stephanie.jpg"
 		},
 		{
 			"name": "Candice Mays",
